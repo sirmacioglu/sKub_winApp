@@ -1,4 +1,4 @@
-# sKub - Fatura İşleme ve PDF Dönüştürme Aracı 🚀
+# sKub - Fatura PDF Dönüştürme Aracı 
 
 **sKub**, Muhasebeciler için geliştirilmiş, Zip halindeki fatura klasörlerini HTML formatından PDF Formatına çeviren ücretsiz ve açık kaynaklı bir yardımcı araçtır.
 
