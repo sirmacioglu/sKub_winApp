@@ -10,7 +10,7 @@
 * **Düşük Kaynak Kullanımı:** Lenovo Legion 5 (i7-12700H) üzerinde yapılan testlerde en yüksek yükte dahi sistem dostu performans sergilemiştir.
 
 ## 🛠️ Kurulum
-1. [Releases](https://github.com/kullaniciadi/sKub/releases) sayfasından en güncel `.exe` kurulum dosyasını indirin.
+1. [Releases](https://github.com/sirmacioglu/sKub_winApp/releases) sayfasından en güncel `.exe` kurulum dosyasını indirin.
 2. Kurulum sihirbazını takip ederek programı bilgisayarınıza kurun.
 3. Windows "Bilinmeyen Yayıncı" uyarısı verirse, **"Ek Bilgi"** butonuna basıp **"Yine de Çalıştır"** diyerek devam edin.
 
@@ -25,3 +25,5 @@ Bu uygulama tamamen açık kaynak kodludur ve herhangi bir zararlı yazılım i�
 
 ---
 *Tüm hakları saklıdır. Bu araç mesleki süreçleri hızlandırmak amacıyla geliştirilmiştir.*
+
+[🛡️ VirusTotal Tarama Raporu (sKub_v1.0_Kurulum.exe)](https://www.virustotal.com/gui/file/ee83657783f2cd250449c6827fcbcb71a9fe1016a5d5b0d393afbdde30bf00c4)
