@@ -27,3 +27,5 @@ Bu uygulama tamamen açık kaynak kodludur ve herhangi bir zararlı yazılım i�
 *Tüm hakları saklıdır. Bu araç mesleki süreçleri hızlandırmak amacıyla geliştirilmiştir.*
 
 [🛡️ VirusTotal Tarama Raporu (sKub_v1.0_Kurulum.exe)](https://www.virustotal.com/gui/file/ee83657783f2cd250449c6827fcbcb71a9fe1016a5d5b0d393afbdde30bf00c4)
+
+"Önemli: Programın çalışması için wkhtmltopdf aracının C:\Program Files\wkhtmltopdf klasörüne kurulu olması gerekmektedir."
